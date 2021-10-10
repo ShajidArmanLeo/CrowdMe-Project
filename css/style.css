@@ -1,0 +1,179 @@
+
+	/*Author: Shajid Arman Leo;
+	mail: shajid.arman10@gmail.com;
+	Website: ;*/
+
+
+*/
+
+/*
+	====Index====
+	1.HOME
+	2.
+	3.
+	4.
+	5.
+	6.Footer
+*/
+
+/* Globar CSS:  */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+h1{
+
+
+}
+
+h2 {
+    color: white;
+    padding: 21px 173px;
+    font-size: 33px;
+    margin-top: 100px;
+}
+
+h3 {
+    color: black;
+    margin: 21px 255px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+h4{
+
+} 
+
+h5{
+
+}
+
+h6{
+
+}
+
+
+p{
+	
+}
+
+span{
+	/*border-bottom: 1px solid #ed145b;
+    width: 26%;
+    display: block;
+   */
+}
+
+
+/*Theme css*/
+
+.navbar{
+	background: white;
+
+}
+
+.home {
+    background: url(../img/banner.jpg)no-repeat;
+    background-size: cover;
+    margin-top: 62px;
+    height: 500px;
+}
+
+.banner-content{
+	
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.banner-btn {
+    border: none;
+    background: #99c50a;
+    color: white;
+    margin: 20px 0px;
+    padding: 7px 16px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+
+/*======work====*/
+
+.work {
+    text-align: center;
+}
+
+.work img {
+    margin: 20px 0;
+}
+
+.work p{
+
+}
+.work-row{
+	margin-right: 15px;
+}
+
+/*Properties/buyer*/
+
+
+.properties {
+    background: #e2f8ff;
+    text-align: center;
+    padding: 38px 0;
+}
+
+.properties img {
+    margin: 0px 39px;
+}
+
+.properties-text{
+    margin-top: 34px;
+}
+
+.properties p{
+
+}
+
+.properties-btn {
+    border: none;
+    padding: 4px 17px;
+    border-radius: 7px;
+    background: #26a6d1;
+    color: white;
+
+}
+
+
+.buyer {
+	background: #f5f9eb;
+	text-align: center;
+    padding: 38px 0;
+}
+
+.buyer img {
+    margin: 24px 56px;
+}
+
+
+.buyer-text{
+    margin-top: 34px;
+}
+
+.buyer p{
+
+}
+
+.buyer-btn{
+	 border: none;
+    padding: 4px 17px;
+    border-radius: 7px;
+    background: #add136;
+    color: white;
+}
